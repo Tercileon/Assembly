@@ -1,4 +1,4 @@
-|[Table of Contents](/00-Table-of-Contents.md0|
+|[Table of Contents](/00-Table-of-Contents.md)|
 |---|
 
 ---
