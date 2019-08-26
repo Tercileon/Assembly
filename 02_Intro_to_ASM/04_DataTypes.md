@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Next Topic](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Assembly Data Types and GDB Part 2
 
@@ -86,4 +89,5 @@ movzx rax, byte [rsi + 5]       ; what happens here?
 
 ## Lab2
 
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/tree/master/02_Intro_to_ASM/Lab_2" > Continue to Lab 2 </a>
+|[Next Topic](/02_Intro_to_ASM/Lab_2)|
+|---|
