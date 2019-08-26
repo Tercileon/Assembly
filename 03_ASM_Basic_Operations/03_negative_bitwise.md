@@ -208,3 +208,4 @@ ror rax, 1      ; rax now looks like (10000000)
 **Complete Performance Lab:** 5
 
 |[Lab 5](/03_ASM_Basic_Operations/Lab_5)|
+|---|
