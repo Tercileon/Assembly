@@ -87,7 +87,8 @@ movzx rax, byte [rsi + 5]       ; what happens here?
 ```
 *DID YOU KNOW? The first letter in "al" represents the middle letter in the 64 and 32 bit register... rax/eax. The second letter, 'l', stands for low (or 'h' high). This applies to all registers and subregisters. rCx = ch/cl. rDx = dh/dl. etc. 16bit registers always end in 'x' and start with their parents middle letter. rax/eax = ax. rcx/ecx = cx, etc. This should make it easier to remember the subregisters of the parent register!*
 
-## Lab2
+**Complete Performance Lab:** 2
+---
 
-|[Next Topic](/02_Intro_to_ASM/Lab_2)|
+|[Lab 2](/02_Intro_to_ASM/Lab_2)|
 |---|
