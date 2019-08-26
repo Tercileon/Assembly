@@ -95,10 +95,9 @@ Which translates to the opcode:
 ## Additonal Resources
 * [GDB Cheatsheet](http://www.yolinux.com/TUTORIALS/GDB-Commands.html)
 
-## Lab1
-Proceed to the Lab1 directory and follow instructions
+**Complete Performance Lab:** 1
 
 ---
 
-|[Next Topic](/02_Intro_to_ASM/Lab_1/README.md)|
+|[Lab 1](/02_Intro_to_ASM/Lab_1/README.md)|
 |---|
