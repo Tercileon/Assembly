@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Section 1.3: Debugging Assembly (pt 1) & Making the Files
 
@@ -96,4 +99,6 @@ Which translates to the opcode:
 Proceed to the Lab1 directory and follow instructions
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/02_Intro_to_ASM/Lab_1/README.md" rel="Continue to Lab 1"> Continue to Lab 1 </a>
+
+|[Next Topic](/02_Intro_to_ASM/Lab_1/README.md)|
+|---|
