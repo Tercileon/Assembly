@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/03_ASM_Basic_Operations/01_Arithmetic_Instructions.md" rel="Return to TOC"> Return to TOC </a>
+|[Next Topic](/03_ASM_Basic_Operations/01_Arithmetic_Instructions.md)|
+|---|
+
+---
 
 # Ch02 Basic Operations
 
@@ -8,4 +11,7 @@
 * Understand the Two's Complement representation of signed numbers
 * Understand the Stack as it pertains to assembly programming, and implement functions that utilize it to load and store data
 
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/03_ASM_Basic_Operations/01_Arithmetic_Instructions.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+---
+
+|[Next Topic](/03_ASM_Basic_Operations/01_Arithmetic_Instructions.md)
+|---|
