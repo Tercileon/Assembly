@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Lab6: Flag Manipulations
 
@@ -12,4 +15,6 @@ cmake . && cmake --build .
 ```
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/04_ASM_Control_Flow/02_Control_Flow.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/04_ASM_Control_Flow/02_Control_Flow.md)|
+|---|
