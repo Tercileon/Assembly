@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Arithmetic Instructions
 
@@ -96,4 +99,5 @@ dec rax         ; rax now contains 2
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/03_ASM_Basic_Operations/02_The_Stack.md" > Continue to Lab 3 </a>
+|[Next Topic](/03_ASM_Basic_Operations/02_The_Stack.md)|
+|---|
