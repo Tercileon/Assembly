@@ -8,5 +8,5 @@ Once you have finished working on the lab you may continue to the next topic
 
 ---
 
-|[Table of Contents](/04_ASM_Control_Flow/03_Strings_Calls.md)|
+|[Next Topic](/04_ASM_Control_Flow/03_Strings_Calls.md)|
 |---|
