@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Section 1.2: Assembly Basics & Memory
 
@@ -253,4 +256,6 @@ xchg rax, [rcx] ; what is the value of rax and rcx now?
 ```
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/02_Intro_to_ASM/03_Debugging_ASM_pt1.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/02_Intro_to_ASM/03_Debugging_ASM_pt1.md)|
+|---|
