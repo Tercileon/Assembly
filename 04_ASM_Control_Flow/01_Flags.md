@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Flags
 
@@ -73,6 +76,7 @@ popf        ; flags have been restored
     * Finally you can pop the flag off, taking the new value with it. (popf)
 
 ---
-# Lab 6
+**Complete Performance Lab:** 6
 
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/04_ASM_Control_Flow/Lab_6/README.md" > Continue to Lab 6 </a>
+|[Lab 6](/04_ASM_Control_Flow/Lab_6/README.md)|
+|---|
