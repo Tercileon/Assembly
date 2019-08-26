@@ -138,5 +138,5 @@ add rsp, 16
 
 ---
 
-|[Lab 4](/03_ASM_Basic_Operations/Lab_4" )|
+|[Lab 4](/03_ASM_Basic_Operations/Lab_4")|
 |---|
