@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Negative Numbers and Bitwise
 
@@ -202,6 +205,6 @@ ror rax, 1      ; rax now looks like (10000000)
 
 ---
 
-## Lab 5
+**Complete Performance Lab:** 5
 
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/tree/master/03_ASM_Basic_Operations/Lab_5" > Continue to Lab 5 </a>
+|[Lab 5](/03_ASM_Basic_Operations/Lab_5)|
