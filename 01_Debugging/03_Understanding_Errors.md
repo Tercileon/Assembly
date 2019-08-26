@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 ## Objectives
 
@@ -253,4 +256,6 @@ In C, every var must be declared for it's type. Many programers may forget to de
 
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/01_Debugging/04.0_IDEs.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/01_Debugging/04.0_IDEs.md)|
+|---|
