@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ### Control Flow
 
@@ -7,4 +8,5 @@ Once you have finished working on the lab you may continue to the next topic
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/04_ASM_Control_Flow/03_Strings_Calls.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Table of Contents](/04_ASM_Control_Flow/03_Strings_Calls.md)|
+|---|
