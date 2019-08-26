@@ -1,6 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab2
+---
 
 * Using subregisters, accessing smaller values and zero extending
     * Copy the Lab2 folder and its contents
@@ -13,4 +14,7 @@ cmake . && cmake --build .
 ./lab2
 ```
 
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/02_Intro_to_ASM/05_Adv_Types.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+---
+
+|[Next Topic](/02_Intro_to_ASM/05_Adv_Types.md)|
+|---|
