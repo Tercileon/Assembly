@@ -191,7 +191,7 @@ xor rax, rax
 ret
 ```
 
-**Complete Lab 7
+**Complete Lab:** 7
 
 |[Lab 7](/04_ASM_Control_Flow/Lab_7)|
 |---|
