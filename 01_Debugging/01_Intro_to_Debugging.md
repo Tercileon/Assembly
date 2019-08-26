@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Intro to Debugging
 
@@ -164,4 +167,6 @@ Fixing the bug is pretty straight forward
 * To do this, re-run the code, or create an identical snapshot and re-analyze the original "ladder".
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/01_Debugging/02_IO_Debugging.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/01_Debugging/02_IO_Debugging.md)|
+|---|
