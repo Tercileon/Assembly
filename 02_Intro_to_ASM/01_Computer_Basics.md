@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Section 1.1: Computer Basics
 
@@ -76,4 +79,5 @@ We won't get too far into this, but there are different CPU architectures that o
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/02_Intro_to_ASM/02_Asm_Basics.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/02_Intro_to_ASM/02_Asm_Basics.md)|
+|---|
