@@ -3,7 +3,7 @@
 
 ---
 
-# Debugging & Assembly - Table of contents
+# Assembly - Table of contents
 
 * [Introduction to ASM](02_Intro_to_ASM/README.md)
   * [Computer Basics](02_Intro_to_ASM/01_Computer_Basics.md)
