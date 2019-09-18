@@ -5,14 +5,7 @@
 
 # Debugging & Assembly - Table of contents
 
-* [Introduction](README.md)
-  * [Intro to Debugging](01_Debugging/01_Intro_to_Debugging.md)
-  * [IO Debugging](01_Debugging/02_IO_Debugging.md)
-  * [Understanding Errors](01_Debugging/03_Understanding_Errors.md)
-  * [IDE's](01_Debugging/04.0_IDEs.md)
-  * [CLion Debugging](01_Debugging/04.1_CLion_Debugging.md)
-  * [Visual Studio Debugging](01_Debugging/04.2_VS_Debugging.md)
-* [Intro to ASM](02_Intro_to_ASM/README.md)
+* [Introduction to ASM](02_Intro_to_ASM/README.md)
   * [Computer Basics](02_Intro_to_ASM/01_Computer_Basics.md)
   * [ASM Basics](02_Intro_to_ASM/02_Asm_Basics.md)
   * [Debugging ASM pt 1](02_Intro_to_ASM/03_Debugging_ASM_pt1.md)
